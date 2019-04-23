@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeItem"
+        android:icon="@drawable/selector_home_tab"
+        android:title="首页" />
+    <item
+        android:id="@+id/newsItem"
+        android:icon="@drawable/selector_news_tab"
+        android:title="新闻" />
+    <item
+        android:id="@+id/serviceItem"
+        android:icon="@drawable/selector_service_tab"
+        android:title="服务" />
+    <item
+        android:id="@+id/governmentItem"
+        android:icon="@drawable/selector_government_tab"
+        android:title="政务" />
+    <item
+        android:id="@+id/settingsItem"
+        android:icon="@drawable/selector_settings_tab"
+        android:title="设置" />
+
+
+</menu>
